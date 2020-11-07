@@ -35,3 +35,7 @@ server.url = YOUR_SERVER_ADDRESS_WITH_PORT
 schedule.interval = MONITOR_CHECK_INTERVAL
 logfile.path = LOGFILE_PATH
 ```
+
+## TODO
+
+- need to add tests if I have enough time :(
